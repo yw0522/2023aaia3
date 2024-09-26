@@ -8,3 +8,4 @@ class Solution:
             if i<N1:ans+=word1[i]
             if i<N2:ans+=word2[i]
         return ans
+
